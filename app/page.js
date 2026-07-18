@@ -1,5 +1,4 @@
-export default function Home() {
-  return (
+export default function Home() {  return (
     <main className="min-h-screen bg-[#0a0a0a] text-white">
       <nav className="flex justify-between items-center p-6 border-b border-gray-800">
         <h1 className="text-2xl font-bold">Oryx9</h1>
